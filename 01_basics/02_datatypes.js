@@ -45,4 +45,5 @@ console.log(typeof(myObj))
 let bhushan="bhushan.jadhav";
 let anothername =bhushan;
 anothername= "guddi";
-console.log(bhsuhan;
+console.log(bhushan);
+//heap me reference change hota hai
