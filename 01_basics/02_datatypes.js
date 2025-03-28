@@ -38,3 +38,11 @@ const myFunction= function(){
 console.log(typeof(myFunction))//but this is object function it just returns function
 console.log(typeof(heroes))
 console.log(typeof(myObj))
+// type of null is object but it is a standalone value
+////////////////////////////////////////////////
+// Stack and Heap Memory
+// Stack(Primitive) Heap(Non Primitive)
+let bhushan="bhushan.jadhav";
+let anothername =bhushan;
+anothername= "guddi";
+console.log(bhsuhan;
